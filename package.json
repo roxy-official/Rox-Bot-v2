@@ -1,5 +1,5 @@
 { 
-    "name": "GURU",
+    "name": "© ʀᴏx⃟ - ᴮᴼᵀ 🇱🇰",
     "version": "0.0.1",
     "description": "Customizable WhatsApp Bot",
     "main": "index.js",
@@ -25,9 +25,9 @@
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/Guru322/GURU-BOT",
+    "homepage": "https://github.com/roxy-official",
     "author": {
-        "name": "GURU"
+        "name": "© ʀᴏx⃟ - ᴮᴼᵀ 🇱🇰 "
     },
     "repository": {
         "type": "git",
